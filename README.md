@@ -6,5 +6,5 @@ I deployed my backend on Heroku and frontend on Netlify .The link is given in de
 <img src="https://github.com/akashrajput25/SFS-A-fast-and-Secure-messaging-app/blob/master/chatUI.png" height=40% width=48% align=right>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 First image shows the login page of the SFS.<br>
-Second image is the chat UI which shows you room name with a welcome message When a user joins and also the leaving message when user leaves the chat.<br>
+Second image is the chat UI which shows you room name with a welcome message whenever a user joins and also the leaving message when user leaves the chat.<br>
 
