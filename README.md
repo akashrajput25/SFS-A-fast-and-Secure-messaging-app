@@ -1,4 +1,4 @@
-# SFS-A-fast-and-Secure-messaging-app
+# SFS-A-fast-and-Secure-chatting-app
 This app uses socket io for faster end to end messaging , react for faster app UI experience and Nodejs for backend services.<br>
 I deployed my backend on Heroku and frontend on Netlify .The link is given in description , Have a try.
 <br><br>
