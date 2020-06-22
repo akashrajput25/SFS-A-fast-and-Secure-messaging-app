@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "heroku"]
+	url = https://git.heroku.com/sfs-messenger.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
